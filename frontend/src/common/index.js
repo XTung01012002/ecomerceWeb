@@ -1,4 +1,4 @@
-const backendDomin = "https://ecomerce-backend-2.onrender.com";
+const backendDomin = "https://ecomerce-backend-m4ij.onrender.com";
 
 const SummaryApi = {
   signUp: {
