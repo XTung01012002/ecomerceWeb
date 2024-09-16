@@ -15,12 +15,13 @@
 ### Frontend
 - React 
 - HTML, CSS, JavaScript
-- 
 
 ### Backend
 - Node.js với Express
 - MongoDB (cơ sở dữ liệu)
 - Mongoose (ODM cho MongoDB)
+- jsonwebtoken: Tạo và xác thực JSON Web Tokens (JWT) cho xác thực và phân quyền.
+- nodemailer: Gửi email từ ứng dụng.
 
 ## Cài Đặt
 
