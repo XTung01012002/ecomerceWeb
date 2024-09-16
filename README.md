@@ -13,8 +13,8 @@
 ## Công Nghệ Sử Dụng
 
 ### Frontend
-- React 
-- HTML, CSS, JavaScript
+- React,Redux
+- JavaScript
 
 ### Backend
 - Node.js với Express
